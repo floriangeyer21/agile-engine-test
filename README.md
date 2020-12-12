@@ -13,4 +13,4 @@
  * spring.data.cassandra.request.page-size - for specify page size,
  * apikey - for defining apiKey needed for retrieve bearer token.
 
-Also, you can watch which data are stored in database, for this type http://localhost:8080/h2-console in browser with user name "sa@ and password "", Then you can execute different SQL statement for retrieve data.
+Also, you can watch which data are stored in database, for this type http://localhost:8080/h2-console in browser with user name "sa" and password "", Then you can execute different SQL statement for retrieve data.
